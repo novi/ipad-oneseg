@@ -1,0 +1,9 @@
+ワンセグチューナー LOG-J200 のiPad用ドライバです。
+ビルドにはVLC for iOSライブラリが必要です。
+
+ライセンス
+Apache License, Version 2.0
+http://www.apache.org/licenses/LICENSE-2.0.html
+
+謝辞
+* LOG-J200 driver for Linux (http://linux.papa.to/?date=20090113)
